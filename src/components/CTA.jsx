@@ -82,7 +82,7 @@ const CTA = () => {
   return (
     <section
       ref={sectionRef}
-      className="py-20 text-primary-content text-center"
+      className="py-20 dark:bg-[#3f2509] text-primary-content text-center"
     >
       <div
         className="hero min-h-screen"
